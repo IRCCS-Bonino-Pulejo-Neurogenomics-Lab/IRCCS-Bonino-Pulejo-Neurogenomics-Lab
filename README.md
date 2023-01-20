@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, we are the Bioinformatic unit of IRCCS Centro Neurolesi Bonino-Pulejo</h1>
+<h1 align="center">Hi 👋, we are the Bioinformatics unit of IRCCS Centro Neurolesi Bonino-Pulejo</h1>
 <h3 align="center">2 young and curious bioinformatics AND AGNESE</h3>
 
 - 📝 We regularly write on different scientific journals
