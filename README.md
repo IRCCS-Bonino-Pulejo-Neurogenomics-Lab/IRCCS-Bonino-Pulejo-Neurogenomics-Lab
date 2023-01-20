@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, we are the Bioinformatic unit of IRCCS Centro Neurolesi Bonino-Pulejo</h1>
 <h3 align="center">2 young and curious bioinformatics</h3>
 
-- 📝 We regularly write articles for [MDPI Groups](MDPI Groups)
+- 📝 We regularly write on different scientific journals
 
 - 📫 How to reach us **(luigi.chiricosta || simone.dangiolini)@irccsme.it**
 <h3 align="left">Languages and Tools:</h3>
